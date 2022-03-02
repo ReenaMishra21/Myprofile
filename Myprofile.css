@@ -46,3 +46,8 @@ body{
     text-decoration:none !important;
     color:white !important;
 }
+@media screen and (max-width:992px){
+    .navbar-brand{
+        margin-left:5%;
+    }
+}
