@@ -48,6 +48,6 @@ body{
 }
 @media screen and (max-width:992px){
     .navbar-brand{
-        margin:0 !important;
+        margin:5%;
     }
 }
