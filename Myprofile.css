@@ -1,0 +1,48 @@
+body{
+    /* background-image:url('https://wallpaperaccess.com/full/1947484.jpg') ;
+    background-image:url('https://wallpaperbat.com/img/94278-web-design-wallpaper-top-free-web-design-background.jpg') ; */
+     background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlEnQJeMOlB5bTCqFIBwb4RoIW679ogEiFCg&usqp=CAU') ;
+    
+    /* background: linear-gradient(to right, #9e878f, #7d7dc0, #90dfeb); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    background-repeat:no-repeat;
+    background-size: cover;
+    text-align:center !important;
+    color:white !important;
+    font-size:25px !important;
+    font-family: Gabriola, 'Times New Roman', Times, serif !important;
+}
+#titlename{
+    padding:10px;
+    font-size:40px;
+    font-weight:bold;
+}
+#mypic{
+    margin:20px;
+    border-radius: 50%;
+    height: 200px; 
+    width: 200px;
+}
+#about{
+    color:black;
+}
+.socialIcon{
+    height:50px;
+    width:50px
+}
+.heading{
+    
+    font-size:30px;
+    font-weight:bold;
+}
+.navbar-brand{
+    border-radius: 50%;
+    width: 40px;
+    background-color:white;
+    color:black !important;
+    margin-left:30%;
+}
+#proj a{
+    text-decoration:none !important;
+    color:white !important;
+}
